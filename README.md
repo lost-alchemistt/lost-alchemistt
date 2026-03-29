@@ -1,10 +1,10 @@
 <h1> Hey, I’m Chetan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <a href="https://www.linkedin.com/in/chetan-kalsariya/">
-  <img align="left" alt="Purv | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+  <img align="left" alt="Chetan | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/loat_alchemist69/">
-  <img align="left" alt="Purv | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+  <img align="left" alt="Chetan | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
 </a>
 <!-- <a href="https://x.com/purvdev">
   <img align="left" alt="Purv | X" width="30" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
@@ -16,11 +16,11 @@
 
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" />
-Hi, I’m Purv Kabaria, an aspiring software developer exploring Machine Learning, OpenCV and Creative WebD. I have participated in multiple hackathons all around the nation, and even organized a few. I have a strong background with Full Stack Development and DevOps L. I enjoy collaborating with like-minded individual to create opportunities that push the boundaries of AI and human-machine collaboration. Feel free to reach out via your favorite platform :)
+Hi, I’m Chetan Kalsariya, an aspiring software developer exploring Machine Learning, OpenCV and Creative WebD. I have participated in multiple hackathons all around the nation, and even organized a few. I have a strong background with Full Stack Development and DevOps L. I enjoy collaborating with like-minded individual to create opportunities that push the boundaries of AI and human-machine collaboration. Feel free to reach out via your favorite platform :)
 
 <ul>
 <li> 🌱 I’m currently pursuing B.Tech in Computer Science & Engineering at NIT Surat </li>
-<li> 💼 Wanna colab on Projects? Do reach via <a href="mailto:purvkabaria@gmail.com">email</a></li>
+<li> 💼 Wanna colab on Projects? Do reach via <a href="mailto:chetan.v.kalsariya@gmail.com">email</a></li>
 <li> 💬 Ask me about anything, I am happy to help </li>
 <!-- <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li> -->
 </ul>
