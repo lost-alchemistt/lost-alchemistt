@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/chetan-kalsariya/">
   <img align="left" alt="Chetan | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/loat_alchemist69/">
+<a href="https://www.instagram.com/lost_alchemist69/">
   <img align="left" alt="Chetan | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
 </a>
 <!-- <a href="https://x.com/purvdev">
